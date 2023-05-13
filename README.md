@@ -8,3 +8,21 @@ Sale Data https://www.kaggle.com/datasets/knightbearr/sales-product-data
 4. Price Each - The price of each products.
 5. Order Date - This is the date the customer is requesting the order be shipped.
 6. Purchase Address - The purchase order is prepared by the buyer, often through a purchasing department. The purchase order, or PO, usually includes a PO number, which is useful in matching shipments with purchases; a shipping date; billing address; shipping address; and the request items, quantities and price.
+
+
+## Target
+A target market analysis is an assessment of how your product or service fits into a specific market and where it will gain the most.
+
+## Task:
+1. What was the best Year for sales? How much was earned that Year?
+2. What was the best month for sales? How much was earned that month?
+3. What City had the highest number of sales?
+4. What time should we display adverstisement to maximize likelihood of customer's buying product?
+5. What products are most often sold together?
+6. What product sold the most? Why do you think it sold the most?
+
+## How Much Probability?
+1. How much probability for next people will ordered USB-C Charging Cable?
+2. How much probability for next people will ordered iPhone?
+3. How much probability for next people will ordered Google Phone?
+4. How much probability other peoples will ordered Wired Headphones?
