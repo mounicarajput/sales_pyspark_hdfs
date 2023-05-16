@@ -23,7 +23,7 @@ A target market analysis is an assessment of how your product or service fits in
 
 ## Architecture 
 
-![ETL Pipeline Design]([http://url/to/img.png](https://github.com/mounicarajput/sales_pyspark_hdfs/blob/main/etl-arch.png))
+![ETL Pipeline Design](https://github.com/mounicarajput/sales_pyspark_hdfs/blob/main/etl-arch.png)
 
 
 
