@@ -21,8 +21,10 @@ A target market analysis is an assessment of how your product or service fits in
 5. What products are most often sold together?
 6. What product sold the most? Why do you think it sold the most?
 
-## How Much Probability?
-1. How much probability for next people will ordered USB-C Charging Cable?
-2. How much probability for next people will ordered iPhone?
-3. How much probability for next people will ordered Google Phone?
-4. How much probability other peoples will ordered Wired Headphones?
+## Architecture 
+
+
+
+
+
+
